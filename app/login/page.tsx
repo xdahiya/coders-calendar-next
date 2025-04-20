@@ -1,4 +1,4 @@
-import { Calendar1, GalleryVerticalEnd } from "lucide-react"
+import { Calendar1 } from "lucide-react"
 
 import { LoginForm } from "@/components/login-form"
 
